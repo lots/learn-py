@@ -1,0 +1,5 @@
+Random thought to be place here.
+
+Go through 
+"Fluent Python"
+"Python xxxxx xxx"
